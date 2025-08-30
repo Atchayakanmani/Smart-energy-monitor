@@ -1,0 +1,2 @@
+# Smart-energy-monitor
+- Problem Statement: Design a smart energy monitor that collects real-time power consumption data, analyzes usage patterns, and predicts future consumption to enable smart control decisions.
